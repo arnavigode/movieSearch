@@ -1,0 +1,62 @@
+body{
+    font-size: 30px;
+    text-align: center;
+    /* https://monophy.com/media/6Fl8k0igiI5I4/monophy.gif */
+    /* https://cdn.wallpapersafari.com/65/44/c1xNqp.jpg */
+    background-image: url("https://cdn.wallpapersafari.com/65/44/c1xNqp.jpg");
+    /* opacity: 0.6; */
+    color: black;
+}
+/* .container{
+    width: 100%;
+    height: 1000px;
+    margin: none !important;
+    padding: none;
+    /* background-image: url("https://avatars.mds.yandex.net/get-pdb/754739/1d4d4cd2-23c1-4e5f-94f1-e9dba6cb61d7/orig"); */
+
+/* }  */
+div {
+    margin: 20px;
+}
+table{
+    margin: auto;
+}
+td{
+    padding: 15px;
+}
+/* th{
+    color: chartreuse;
+    text-align: justify;
+} */
+#title{
+    width: 30%;
+    height: 40px;
+    border-radius: 20px;
+    text-align: center;
+    /* margin-top: 50px; */
+
+}
+.btn{
+    width: 10%;
+    height: 40px;
+    border-radius: 10px;
+
+}
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.8;
+  }
+  
+  div.transbox h1 {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+    opacity: none;
+  }
+  .fill{
+      text-align: justify;
+      color: black;
+      font-weight: bold;
+  }
